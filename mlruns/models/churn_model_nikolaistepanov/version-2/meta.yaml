@@ -1,0 +1,13 @@
+aliases: []
+creation_timestamp: 1714853802200
+current_stage: None
+description: null
+last_updated_timestamp: 1714853802200
+name: churn_model_nikolaistepanov
+run_id: bb565f644b304816b13d2084aea80187
+run_link: null
+source: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/764869570052445283/bb565f644b304816b13d2084aea80187/artifacts/models
+status: READY
+status_message: null
+user_id: null
+version: 2
