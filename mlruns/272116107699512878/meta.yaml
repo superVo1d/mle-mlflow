@@ -1,0 +1,6 @@
+artifact_location: file:///home/mle-user/mle_projects/mle-mlflow/mlruns/272116107699512878
+creation_time: 1716463456850
+experiment_id: '272116107699512878'
+last_update_time: 1716463456850
+lifecycle_stage: active
+name: features_experiment
